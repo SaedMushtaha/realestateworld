@@ -1,3 +1,3 @@
 Real Estate Application
 
-![alt text](https://github.com/SaedMushtaha/realestateworld/tree/main/assets/readmeImages/img1.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/SaedMushtaha/realestateworld/main/assets/readmeImages/img1.png)
